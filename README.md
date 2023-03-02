@@ -1,2 +1,0 @@
-My Seconde readme
-Cool
